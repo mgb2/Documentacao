@@ -19,7 +19,8 @@ Conteúdo
 --------
 
 .. toctree::
-
+   :maxdepth: 2
+   
    usage
    api
    teste/teste1
