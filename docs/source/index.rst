@@ -1,7 +1,7 @@
 Biz One
 =======
 
-.. image:: BizOne_logo.png
+.. image:: BizOne_inicial.png
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
