@@ -4,6 +4,6 @@ TESTE
 - Teste...
 
 .. toctree::
-   :maxdepth: 6
+   :maxdepth: 2
 
    teste2
